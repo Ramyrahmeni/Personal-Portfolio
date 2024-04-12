@@ -9,7 +9,7 @@ import nlpicon from'../assets/noun-natural-language-processing-6639439.svg'
 import cvicon from '../assets/noun-computer-vision-6647979 (1).svg'
 gsap.registerPlugin(ScrollTrigger); // Register ScrollTrigger plugin
 import reactsv from '../assets/react.svg';
-
+import "./AreasOfInterests.css"
 console.log('Deep Learning Icon imported successfully:', deepLearningIcon);
 
 const CardContainer = styled.div`
@@ -81,13 +81,7 @@ const AreasOfInterests = () => {
 
   return (
     <div className='interest-container'>
-    <h1 className='interestheader' style={{
-    fontSize: '100px',
-    textAlign: 'center',
-    margin: '0',
-    fontWeight: '600',
-    color: 'var(--faded-header)'
-  }}>
+    <h1 className='interestheader'>
     Areas Of Interest
   </h1>
     <CardContainer>

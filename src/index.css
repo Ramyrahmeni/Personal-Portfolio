@@ -61,3 +61,6 @@ body {
 html.menu-open {
   overflow-y: hidden;
 }
+.nav-link {
+  font-size: 40px; /* Adjust the font size as needed */
+}

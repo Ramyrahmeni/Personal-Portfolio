@@ -29,7 +29,7 @@
   position: absolute;
   top: -20px;
   bottom: 50%;
-  left: -40px;
+  left: -30px;
 }
 
 .profile-links svg {
@@ -275,6 +275,10 @@
   .about {
     margin-top: 1rem;
     gap: 2rem;
+  }
+  .about-pfp{
+    width:300px;
+    height:300px;
   }
   .toolkit-bg-header {
     transform: translateY(0);
