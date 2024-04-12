@@ -1,5 +1,5 @@
 .container {
-  height: 100svh;
+  height: 100vh;
   position: relative;
   background-color: var(--bg-primary);
   color: var(--text-primary);
