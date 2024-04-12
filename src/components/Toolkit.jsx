@@ -79,7 +79,7 @@ const Toolkit = () => {
               <p>Java</p>
             </div>
             <div className="single-tool-container">
-              <img src="/toolkit-logos/c++.png" alt="c++ logo" />
+              <img src="/toolkit-logos/cplus.png" alt="c++ logo" />
               <p>C++</p>
             </div>
             <div className="single-tool-container">
